@@ -24,6 +24,7 @@ int main()
     cout<<endl;
     for (p=a;p<(a+N);p++)
         cout<<(*p)<<"\t"<<p<<endl;
+    cout<<" This is the test code of pointer"<<endl;
     return 0;
 }
 
