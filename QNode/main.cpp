@@ -10,7 +10,7 @@ typedef struct node
 
 int main()
 {
-
+    cout<<" Test the function of branch"<<endl;
     return 0;
 }
 
