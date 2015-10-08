@@ -25,6 +25,7 @@ int main()
     for (p=a;p<(a+N);p++)
         cout<<(*p)<<"\t"<<p<<endl;
     cout<<" This is the test code of pointer"<<endl;
+    cout<<" This is the test code of feature branch"<<endl;
     return 0;
 }
 
